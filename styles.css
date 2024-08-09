@@ -21,12 +21,12 @@ body {
 @import url("styles/carrossel.css");
 
 :root {
-    --cor-de-fundo: #EBECEE;
-    --branco: #FFFFFF;
+    --cor-de-fundo: rgb(26, 24, 24);
+    --branco: rgb(63, 59, 59);
     --laranja: #EB9B00;
     --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
-    --azul: #002F52;
+    --azul: #068ef7;
 }
 
 body {
@@ -52,6 +52,7 @@ body {
 }
 @media screen and (mind-width:1024) {
     .descrição__titulo{
+        
         font-size: 30px;
     }
     
