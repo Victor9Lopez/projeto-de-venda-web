@@ -76,3 +76,10 @@
 .botões__item {
     margin: 0 0.5em;
 }
+
+.descrição__texto{
+    color: white;
+}
+.descrição__imagem{
+    width: 50%;
+}
