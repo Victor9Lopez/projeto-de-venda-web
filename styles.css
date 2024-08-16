@@ -59,6 +59,10 @@ body {
     }
     .descrição__texto{
 
-        font-size: 15px;
+        font-size: 20px;
+    }
+    .descrição__titulo-livro{
+
+        font-size: 25px;
     }
 }
