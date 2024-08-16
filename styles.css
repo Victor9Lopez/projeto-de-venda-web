@@ -41,19 +41,20 @@ body {
 
         font-size: 30px;
     }
-    
-}
-@media screen and (min-width:1024px) {
     .cabeçalho{
-
+    
         font-size: 30px;
     }
-    
-}
-@media screen and (mind-width:1024) {
     .descrição__titulo{
         
         font-size: 30px;
     }
-    
+    .carrossel__titulo{
+        
+        font-size: 30px;
+    }
+    .descrição__titulo{
+
+        font-size: 30px;
+    }
 }
